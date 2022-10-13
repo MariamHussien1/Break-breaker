@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\Project\Project\Source.cpp(53,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\Project\Project\Source.cpp(53,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project.vcxproj -> C:\Users\Lenovo\source\repos\Project\Debug\Project.exe
